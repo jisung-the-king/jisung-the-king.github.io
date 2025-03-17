@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a2274d89.css",
+    "main.js": "/static/js/main.d90e64c4.js",
+    "static/js/453.95e53f89.chunk.js": "/static/js/453.95e53f89.chunk.js",
+    "static/media/시바견 하트.png": "/static/media/시바견 하트.2fca567f11550d500043.png",
+    "static/media/시바견 선글라스1.png": "/static/media/시바견 선글라스1.06cbf2e124f0eb8c3c20.png",
+    "static/media/logo.jpg": "/static/media/logo.382228df46386980df49.jpg",
+    "index.html": "/index.html",
+    "main.a2274d89.css.map": "/static/css/main.a2274d89.css.map",
+    "main.d90e64c4.js.map": "/static/js/main.d90e64c4.js.map",
+    "453.95e53f89.chunk.js.map": "/static/js/453.95e53f89.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2274d89.css",
+    "static/js/main.d90e64c4.js"
+  ]
+}
